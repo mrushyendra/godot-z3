@@ -1,0 +1,5 @@
+This custom shared library is based on Baastian Olij's gdnative_cpp_example
+https://github.com/BastiaanOlij/gdnative_cpp_example
+
+It makes use of the GDNative CPP bindings found in the godot-cpp repository
+https://github.com/godotengine/godot-cpp 

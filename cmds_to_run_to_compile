@@ -1,0 +1,3 @@
+scons platform=x11 // For your own scripts
+scons generate-bindings=yes use_custom_api_file=yes custom_api_file=../api.json -j4 // In godot-cpp folder
+
